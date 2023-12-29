@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Gripsou</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_dashboard">Dashboard</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_preferences">Preferences</string>
+    <string name="title_upper_bar">Upper bar</string>
 </resources>
